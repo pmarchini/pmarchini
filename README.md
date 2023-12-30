@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 📖 Bio
 
 Hello I'm Pietro, Technical Lead and Software Engineer @ [Mia-Platform](https://mia-platform.eu).  
-I'm in love with software architecture with a deep passion for bridging the gap between complex software design and human factors.  
+I have a deep passion for software architecture and I'm committed to bridging the gap between complex software design and human factors
 
 
 ### 💡 Core Interests:
